@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<name>
+			<first>John</first>
+			<last>Doe</last>
+		</name>
+		<gender>male</gender>
+		<age>20</age>
+		<university name="University of Iowa">        
+			<year_of_admission>2022</year_of_admission>
+			<study_areas>Mechanical engineering</study_areas>
+			<study_areas>Materials sciense</study_areas>
+		</university>
+		<location>USA</location>
+		<is_vaccinated>false</is_vaccinated>
+		<id>4657987</id>
+		<rank>95.4</rank>
+	</student>
+	<student>
+		<name>
+			<first>Lisa</first>
+			<last>Palmer</last>
+		</name>
+		<gender>female</gender>
+		<age>19</age>
+		<university name="University of Toronto">        
+			<year_of_admission>2023</year_of_admission>
+			<study_areas>Finance</study_areas>
+			<study_areas>Marketing</study_areas>
+		</university>
+		<location>Canada</location>
+		<is_vaccinated>true</is_vaccinated>
+		<id>9648776</id>
+		<rank>98.7</rank>
+	</student>
+</students>
