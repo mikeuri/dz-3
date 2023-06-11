@@ -1,0 +1,31 @@
+students:
+- name:
+    first: John
+    last: Doe
+  gender: male
+  age: 20
+  university:
+    name: University of Iowa
+    year_of_admission: 2022
+    study_areas:
+    - Mechanical engineering
+    - Materials sciense
+  location: USA
+  is_vaccinated: false
+  id: 4657987
+  rank: 95.4
+- name:
+    first: Lisa
+    last: Palmer
+  gender: female
+  age: 19
+  university:
+    name: University of Toronto
+    year_of_admission: 2023
+    study_areas:
+    - Finance
+    - Marketing
+  location: Canada
+  is_vaccinated: true
+  id: 9648776
+  rank: 98.7
